@@ -15,7 +15,7 @@ For demanding simulations, it can be beneficial to use the program without the G
 
 ## Testing
 
-Testing is performed using the Catch2 framework, based on the console version. The 'test' folder contains all relevant files to be able to perform testing. 
+Testing is performed using the Catch2 framework, based on the console version. The 'test' folder contains all relevant files to be able to perform testing.  
 
 Branch|Code Coverage
 ---|---
